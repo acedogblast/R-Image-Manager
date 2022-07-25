@@ -1,0 +1,14 @@
+Collections have images.
+Each collection is a folder that will have an images folder which will hold the images.
+Each collection will have an collection meta-data file which will hold meta data about the whole collection.
+
+As images are added to the collection it will be copied into the images folder. Original file name is preserved. An addition to the collection meta-data file will be recordded such as time and date of the import. The original file name and index. 
+
+The meta-data file will use YAML encoding.
+
+Usage for CLI/Backend
+
+Create or import collection
+Import image or images
+Search for similar images
+Sync/Backup

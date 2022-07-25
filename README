@@ -1,0 +1,5 @@
+R-image manager
+
+About:
+This software is used to manage and organize images. It supports tagging and image similarity scans to find simmilar or exact copies of images. Also supports syncing of collections between folders and backups.
+It does not support any form of editing. (May add simple edits like metadata editing and rotations)
